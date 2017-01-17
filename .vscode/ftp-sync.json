@@ -1,0 +1,19 @@
+{
+    "remotePath": "/export/b/y57/it57d/57160591/public_html/887371/myapp",
+    "host": "angsila.cs.buu.ac.th",
+    "username": "57160591",
+    "password": "lookmaii",
+    "port": 22,
+    "secure": false,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ]
+}
